@@ -141,30 +141,25 @@ cv:
         issuer: NVIDIA DLI
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Applications of AI for Predictive Maintenance
+        date: 2023
+        issuer: NVIDIA DLI
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: NoSQL, Big Data, and Spark Foundations Specialization
+        date: 2024
+        issuer: IBM
         icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
     References:
-      - name: Professor John Doe
+      - name: Dr. Mark Austin
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Dr. Austin is my MSc supervisor for my Capstone project that won the best capstone paper award at SMU.
 
-      - name: Professor Jane Smith
+      - name: Ashok Mishra
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Dr. Mishra was my Postdoc Supervisor when I worked at Clemson University.
+
+      - name: Liong Shie Yui
+        icon: fa-solid fa-thumbtack
+        reference: Dr. Liong was my PhD supervisor when I worked at National University of Singapore
