@@ -9,26 +9,23 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div style="font-size: 0.85rem; line-height: 1.35;">
+    <p>320 Perkins Admin Bldg</p>
+    <p>Southern Methodist University</p>
+    <p>Dallas, TX 75206</p>
+    </div>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Tue Vu is an AI/ML Research Scientist at [Office of Information Technology, Southern Methodology University](https://www.smu.edu/oit/research). He supports Faculty, Researcher, Postdocs, Grads/Undergraduates from <a href="https://www.smu.edu/academics/schools-departments">8 schools</a> to work with [SMU HPC](https://www.smu.edu/oit/research/hpc), bridging the technical knowledge with AI/ML and GPU computing power to accelerate their workflow in their own domain knowledge.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His most recent study are into finetuning [LLM models](https://github.com/vuminhtue/LLM_On_SuperPOD
+), [Advanced Democratic RAG workflow](https://github.com/vuminhtue/All_RAG_Techniques_Ollama_LC_SuperPOD) with large [Open Source LLMs](https://ollama.com) like gpt-oss:120b, qwen3.5:122b, gemma4:31b; or Object Detection with [Yolo](https://vuminhtue.github.io/projects/yolo_floorplan/), [Faster RCNN](https://vuminhtue.github.io/projects/Faster_RCNN_Detectron_carpark/) and Image Segmentation with [Mask RCNN](https://vuminhtue.github.io/projects/MaskRCNN_Detectron_drone/). 
+
+In addition to research and consultant work, he [teachs AI/ML workshops](https://vuminhtue.github.io/teaching/) every semester at SMU main campus.
+
+He is also <a href="https://www.nvidia.com/en-us/training/instructor-directory/bio/?instructorId=0038Z00002nRyMzQAK">NVIDIA Ambassador</a> for SMU campus, licensed to teach selected NVIDIA workshops on utilizing GPU for AI/ML projects.
